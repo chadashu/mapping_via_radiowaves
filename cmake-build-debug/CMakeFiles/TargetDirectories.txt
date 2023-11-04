@@ -1,0 +1,3 @@
+/home/chad/Desktop/mapping_via_radiowaves/cmake-build-debug/CMakeFiles/PersonDemo.dir
+/home/chad/Desktop/mapping_via_radiowaves/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chad/Desktop/mapping_via_radiowaves/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/snap/clion/250/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DCMAKE_CXX_FLAGS=-I/usr/local/include -G "CodeBlocks - Unix Makefiles" -S /home/chad/Desktop/mapping_via_radiowaves -B /home/chad/Desktop/mapping_via_radiowaves/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/chad/Desktop/mapping_via_radiowaves/cmake-build-debug

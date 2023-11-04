@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="bcf55cbf-6e00-4cef-af37-47a1bb6a61f6" name="radiowaves@localhost Mapping">
+      <data-sources db="b6040aad-c7e7-4adf-8dc5-3947e3e9d6f7" />
+      <scope>
+        <node kind="schema" qname="radiowaves" />
+      </scope>
+    </mapping>
+  </component>
+</project>
